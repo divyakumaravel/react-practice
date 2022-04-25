@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: package-lock.json
+  checksum: fbed267630937116061a8475b73bc615c49e148365f964b762f97dfc7f8c74ea
+- filename: .talisman
+  checksum: 2ddc5d3f16bc1fa9d8c5080a634dea5c2805de8dc5b698e9835741b1fd67b93a
+version: ""
